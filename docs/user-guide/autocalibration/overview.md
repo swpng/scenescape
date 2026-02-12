@@ -60,3 +60,14 @@ _Figure 2: Auto Calibration Sequence diagram_
 
 - [Get Started Guide](get-started.md)
 - [API Reference](api-reference.md)
+
+<!--hide_directive
+:::{toctree}
+:hidden:
+
+   get-started
+   How-to-build-source
+   api-reference
+   
+:::
+hide_directive-->
