@@ -5,7 +5,6 @@
 :::{toctree}
 :hidden:
 
-   overview
-
+overview
 :::
 hide_directive-->

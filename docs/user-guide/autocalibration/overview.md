@@ -68,6 +68,5 @@ _Figure 2: Auto Calibration Sequence diagram_
 get-started
 How-to-build-source
 api-reference
-   
 :::
 hide_directive-->
