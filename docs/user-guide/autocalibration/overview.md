@@ -65,9 +65,9 @@ _Figure 2: Auto Calibration Sequence diagram_
 :::{toctree}
 :hidden:
 
-   get-started
-   How-to-build-source
-   api-reference
+get-started
+How-to-build-source
+api-reference
    
 :::
 hide_directive-->
